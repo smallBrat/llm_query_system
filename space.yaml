@@ -1,0 +1,6 @@
+# space.yml
+
+title: HackRx LLM Query System
+sdk: docker
+license: mit
+app_file: app/main.py
