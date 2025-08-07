@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+transformers
+PyMuPDF
+scikit-learn
+google-generativeai
+python-dotenv
+transformers
+transformers
+torch
+accelerate
