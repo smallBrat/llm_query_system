@@ -1,11 +1,8 @@
-faiss-cpu
-sentence-transformers
-transformers
-PyMuPDF
-scikit-learn
-google-generativeai
+fastapi
+uvicorn
+requests
 python-dotenv
 transformers
-transformers
-torch
-accelerate
+sentence-transformers
+PyMuPDF
+faiss-cpu
